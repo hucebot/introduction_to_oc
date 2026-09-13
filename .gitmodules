@@ -1,0 +1,3 @@
+[submodule "lsrb"]
+	path = lsrb
+	url = https://github.com/ioloizou/srb_mpc_fable5.git
